@@ -10,5 +10,6 @@ public class Circle {
         circleA.radius = 666;
         System.out.println("CircleA.x"+"CircleA.y"+"CircleA.radius");
 
+
     }
 }
