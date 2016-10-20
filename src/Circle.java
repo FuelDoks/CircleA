@@ -3,8 +3,10 @@ public class Circle {
     float y;
     float radius;
 
-    static class CircleA {
-        public static void main() {
+     class CircleA {
+         public void main(String[] args) {
+
+
             Circle circleA = new Circle();
 
             circleA.x = 124;
